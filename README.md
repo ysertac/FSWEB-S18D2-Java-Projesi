@@ -46,7 +46,7 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
  * [GET]/workintech/fruits/desc => tüm fruit kayıtlarını price göre azalan sırada dönmeli.
  * [POST]/workintech/fruits => Bir adet fruit objesini id değerine göre ya veri tabanına ekler. Ya da var olan değeri update eder.
  * [POST]/workintech/fruits/{name} => Bir adet name değişkeni alır ve fruit tablosu içerisinde geçen tüm fruitleri döner
- * [DELETE]/workintech/fruits/{id} => İlgili id değerindeki kangaroo objesini listeden siler.
+ * [DELETE]/workintech/fruits/{id} => İlgili id değerindeki fruit objesini listeden siler.
  * ```VegetableController``` 
 * [GET]/workintech/vegetables => tüm vegetables kayıtlarını price göre artan sırada dönmeli.
 * [GET]/workintech/vegetables/{id} => İlgili id deki vegetable objesini dönmeli.
